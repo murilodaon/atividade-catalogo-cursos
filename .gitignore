@@ -1,0 +1,21 @@
+
+# Arquivos com possíveis senhas
+.env
+.env.*
+!.env.example
+
+# Arquivos do IntelliJ
+.idea/
+*.iml
+
+# Arquivos gerados pelo Maven
+target/
+
+# Logs
+*.log
+
+# Chaves e certificados privados
+*.key
+*.pem
+*.p12
+*.pfx
