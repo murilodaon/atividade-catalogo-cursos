@@ -1,7 +1,7 @@
 # Catálogo de Cursos
 
 **Integrantes:** Murilo Daon e Bruno Henrique  
-**Professor:** Wesley Soares
+**Professor:** Jefferson Passerini
 
 Projeto independente desenvolvido para a atividade prática de Programação com Java e Spring Boot.
 
